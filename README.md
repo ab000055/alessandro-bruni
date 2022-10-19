@@ -1,2 +1,2 @@
 # alessandro-bruni
-ciao cartella di meto
+ciao cartella di metodi  
